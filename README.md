@@ -1,0 +1,11 @@
+Hola, entrego la información del tp final.
+
+Nombre: Luciana Marian Gonzalez
+
+Link: https://github.com/Lucianagonz07/Proyecto-final.git
+
+Mail: luciana_gonzalez.m@hotmail.com
+
+Dni: 41956109
+
+
