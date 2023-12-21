@@ -4,7 +4,7 @@ Nombre: Luciana Marián Gonzalez
 
 Link: https://github.com/Lucianagonz07/Proyecto-final.git
 
-Link video: https://youtu.be/2lwIwQd5NvQ 
+Link video: https://youtu.be/hpAJPLbnhl4
 
 Mail: luciana_gonzalez.m@hotmail.com
 
